@@ -3,8 +3,7 @@
 * Name: Pranay Aggarwal
 * Email ID: 24f3004524@ds.study.iitm.ac.in
 * Roll No: 24f3004524
-* Term: T2-2026
-* Kaggle Competition: Smart MCQ Solver Challenge
+
 
 
 This notebook builds a regression pipeline that predicts the selling price of heavy equipment (bulldozers, excavators, wheel loaders, etc.) at auction, based on the **Heavy Equipment Selling Price Prediction Challenge** dataset.
